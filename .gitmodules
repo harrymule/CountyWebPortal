@@ -1,0 +1,3 @@
+[submodule "CountyWebPortal"]
+	path = CountyWebPortal
+	url = git@github.com:harrymule/CountyWebPortal.git
